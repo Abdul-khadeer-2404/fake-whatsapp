@@ -1,0 +1,245 @@
+ 
+
+<!DOCTYPE html>
+<html lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>404 Page not found</title>
+<meta name="viewport" content="width=device-width,minimum-scale=1" />
+<meta name="robots" content="noindex">
+<link rel="stylesheet" type="text/css" href="https://fakedetail.com/assets/css/404.css?1.3.44" />
+<link rel="stylesheet" type="text/css" href="https://fakedetail.com/assets/css/style.min.css?1.3.44" />
+<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:light&v1" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="https://fakedetail.com/assets/css/font-awesome.min.css" />
+<script src="https://fakedetail.com/assets/js/jquery.min.js"></script>
+<link rel="icon" href="https://fakedetail.com/assets/images/favicon.png" type="image/gif" sizes="16x16">
+</head>
+<body itemscope itemtype="http://schema.org/WebPage">
+<div itemscope itemtype="https://schema.org/WPHeader">
+<header class="container-fuild header">
+<div class="container">
+<div class="main-header align-items justify-content">
+<div class="logo">
+
+<a title="Fake Details Online Generator" itemprop="url" href="https://fakedetail.com"></a>
+</div>
+<div class="menu xs-hide sm-hide" itemscope itemtype="https://schema.org/SiteNavigationElement">
+<ul class="main-menu">
+<li>
+<a title="Mail" itemprop="url" href="https://fakedetail.com/fake-mail-generator">Mail</a>
+</li>
+<li>
+<a title="IMEI Number" itemprop="url" href="https://fakedetail.com/imei-number-generator/apple">IMEI</a>
+</li>
+<li>
+<a title="Personal Detail" class="dropdown-btn ">Personal Detail <i class="fa fa-caret-down" aria-hidden="true"></i></a>
+<ul class="fake_submenu wp_submenu">
+<li><a itemprop="url" class href="https://fakedetail.com/username-generator" title="Username">Username</a></li>
+<li><a itemprop="url" class href="https://fakedetail.com/user-face-generator" title="User Face">User Face</a></li>
+<li><a itemprop="url" class href="https://fakedetail.com/fake-company-generator" title="Company">Company</a></li>
+<li><a itemprop="url" class href="https://fakedetail.com/fake-address-generator" title="Address">Address</a></li>
+<li><a itemprop="url" class href="https://fakedetail.com/password-generator" title="Password">Password</a></li>
+<li><a itemprop="url" class href="https://fakedetail.com/random-name-generator" title="Name">Name</a></li>
+</ul>
+</li>
+<li class="mega-menu">
+<a title class="dropdown-btn ">Social Media <i class="fa fa-caret-down" aria-hidden="true"></i></a>
+<ul class="sub-menu fake_submenu insta_submenu">
+<li>
+<div class="row">
+<div class="xs-12 md-3">
+<div class="menu-parts">
+<h4>Whatsapp</h4>
+<ul>
+<li>
+<a href="https://fakedetail.com/fake-whatsapp-chat-generator" class title="Whatsapp Chat">Whatsapp Chat</a>
+</li>
+<li>
+<a href="https://fakedetail.com/fake-whatsapp-video-call-generator" class title="Whatsapp Video Call">Whatsapp Video Call</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="xs-12 md-3">
+<div class="menu-parts">
+<h4>Facebook</h4>
+<ul>
+<li>
+<a class href="https://fakedetail.com/fake-facebook-chat-generator" title="Facebook Chat">Facebook Chat</a>
+</li>
+<li>
+<a class href="https://fakedetail.com/fake-facebook-post-generator" title="Facebook Post">Facebook Post</a>
+</li>
+<li>
+<a class href="https://fakedetail.com/fake-facebook-video-call-generator" title="Facebook Video Call">Facebook Video Call</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="xs-12 md-3">
+<div class="menu-parts">
+<h4>Instagram</h4>
+<ul>
+<li>
+<a class href="https://fakedetail.com/fake-instagram-chat-generator" title="Instagram Chat">Instagram Chat</a>
+</li>
+<li>
+<a class href="https://fakedetail.com/fake-instagram-post-generator" title="Instagram Post">Instagram Post</a>
+</li>
+<li>
+<a class href="https://fakedetail.com/fake-instagram-profile-generator" title="Instagram Profile">Instagram Profile</a>
+</li>
+<li>
+<a class href="https://fakedetail.com/fake-instagram-video-call-generator" title="Instagram Video Call">Instagram Video Call</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="xs-12 md-3">
+<div class="menu-parts">
+<h4>Hangouts</h4>
+<ul>
+<li>
+<a class href="https://fakedetail.com/fake-android-hangouts-messenger-generator" title="Android Hangouts Messenger">Android Hangouts Messenger</a>
+</li>
+<li>
+<a class href="https://fakedetail.com/fake-iphone-hangouts-messenger-generator" title="iPhone Hangouts Messenger">iPhone Hangouts Messenger</a>
+</li>
+<li>
+<a class href="https://fakedetail.com/fake-hangouts-video-call-generator" title="Hangouts Video Call">Hangouts Video Call</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="xs-12 md-3">
+<div class="menu-parts">
+<h4>Twitter</h4>
+<ul>
+<li>
+<a class href="https://fakedetail.com/fake-twitter-chat-generator" title="Twitter Chat">Twitter Chat</a>
+</li>
+<li>
+<a class href="https://fakedetail.com/fake-twitter-tweet-generator" title="Twitter Tweet">Twitter Tweet</a>
+</li>
+<li>
+<a class href="https://fakedetail.com/fake-twitter-profile-generator" title="Twitter Profile">Twitter Profile</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="xs-12 md-3">
+<div class="menu-parts">
+<h4>Tiktok</h4>
+<ul>
+<li>
+<a class href="https://fakedetail.com/fake-tiktok-profile-generator" title="Tiktok Profile">Tiktok Profile</a>
+</li>
+<li>
+<a class href="https://fakedetail.com/fake-tiktok-post-generator" title="Tiktok Post">Tiktok Post</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="xs-12 md-3">
+<div class="menu-parts">
+<h4>Telegram</h4>
+<ul>
+<li>
+<a title="Telegram" href="https://fakedetail.com/fake-telegram-chat-generator">Telegram</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="xs-12 md-3">
+<div class="menu-parts">
+<h4>Chats</h4>
+<ul>
+<li>
+<a title="Snapchat Chat" class href="https://fakedetail.com/fake-snapchat-chat-generator" title="Snapchat Chat">Snapchat Chat</a>
+</li>
+<li>
+<a title="Skype Chat" class href="https://fakedetail.com/fake-skype-chat-generator" title="Skype Chat">Skype Chat</a>
+</li>
+<li>
+<a title="Wechat Chat" class href="https://fakedetail.com/fake-wechat-chat-generator" title="Wechat Chat">Wechat Chat</a>
+</li>
+<li>
+<a title="Line Chat" class href="https://fakedetail.com/fake-line-chat-generator" title="Line Chat">Line Chat</a>
+</li>
+<li>
+<a title="Linkedin Chat" class href="https://fakedetail.com/fake-linkedin-chat-generator" title="Linkedin Chat">Linkedin Chat</a>
+</li>
+<li>
+<a title="Tumblr Chat" class href="https://fakedetail.com/fake-tumblr-chat-generator" title="Tumblr Chat">Tumblr Chat</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li><a title="Text Messenger" class="dropdown-btn ">Text Messenger <i class="fa fa-caret-down" aria-hidden="true"></i></a>
+<ul class="fake_submenu insta_submenu">
+<li><a class href="https://fakedetail.com/fake-android-text-messenger-generator" title="Android Text Messenger">Android Text Messenger</a></li>
+<li><a class href="https://fakedetail.com/fake-iphone-text-messenger-generator" title="iPhone Text Messenger">iPhone Text Messenger</a></li>
+</ul>
+</li>
+<li>
+<a title="Name Generator" class="dropdown-btn ">Name Generator <i class="fa fa-caret-down" aria-hidden="true"></i></a>
+<ul class="fake_submenu insta_submenu">
+<li><a class href="https://fakedetail.com/nickname-generator" title="Nickname Generator">Nickname Generator</a></li>
+<li><a class href="https://fakedetail.com/aesthetic-generator" title="Aesthetic Name">Aesthetic Name Generator</a></li>
+
+<li><a class href="https://fakedetail.com/band-name-generator" title="Band Name">Band Name Generator</a></li>
+
+<li><a class href="https://fakedetail.com/alien-name-generator" title="Alien Name">Alien Name Generator</a></li>
+<li><a class href="https://fakedetail.com/dj-name-generator" title="DJ Name">DJ Name Generator</a></li>
+<li><a class href="https://fakedetail.com/god-name-generator" title="God Name">God Name Generator</a></li>
+<li><a class href="https://fakedetail.com/horse-name-generator" title="God Name">Horse Name Generator</a></li>
+<li><a class href="https://fakedetail.com/orc-name-generator" title="God Name">Orc Name Generator</a></li>
+<li><a class href="https://fakedetail.com/planet-name-generator" title="God Name">Planet Name Generator</a></li>
+<li><a class href="https://fakedetail.com/dwarf-name-generator" title="Dwarf Name Generator">Dwarf Name Generator</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="md-hide lg-hide tab-dis-hide">
+<div class="menu-btn">
+<div class="bar"></div>
+<div class="bar"></div>
+<div class="bar"></div>
+</div>
+</div>
+</div>
+</div>
+</header>
+</div>
+<main>
+<div class="main-html">
+<div class="main-body">
+<main class="main-404">
+<div>
+<div>
+<span class="text">404 error</span>
+<span class="text">page not found</span>
+</div>
+<svg viewBox="0 0 200 600">
+<polygon points="118.302698 8 59.5369448 66.7657528 186.487016 193.715824 14 366.202839 153.491505 505.694344 68.1413353 591.044514 200 591.044514 200 8"></polygon>
+</svg>
+</div>
+<svg class="crack" viewBox="0 0 200 600">
+<polyline points="118.302698 8 59.5369448 66.7657528 186.487016 193.715824 14 366.202839 153.491505 505.694344 68.1413353 591.044514"></polyline>
+</svg>
+<div>
+<svg viewBox="0 0 200 600">
+<polygon points="118.302698 8 59.5369448 66.7657528 186.487016 193.715824 14 366.202839 153.491505 505.694344 68.1413353 591.044514 0 591.044514 0 8"></polygon>
+</svg>
+<div>
+<span class="text">sorry about that!</span>
+<span><a class="text" href="https://fakedetail.com">return home?</a></span>
+</div>
+</div>
+</main>
+</div>
+</div>
+
